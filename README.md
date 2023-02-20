@@ -3,8 +3,11 @@
 by AWS Editorial Team | on 18 NOV 2021 | in Amazon OpenSearch Service, Analytics, Security | [Permalink](https://aws.amazon.com/es/blogs/aws-spanish/uso-de-azure-ad-como-proveedor-de-identidad-para-opensearch-dashboards-en-amazon-opensearch-service/) |  [Share](https://aws.amazon.com/es/blogs/aws-spanish/uso-de-azure-ad-como-proveedor-de-identidad-para-opensearch-dashboards-en-amazon-opensearch-service/#)
 
 By Luciano Bernardes, Senior Partner Solution Architect at AWS
+
 Caio Cesar, Microsoft Specialist on AWS
+
 Rafael Gumiero, Senior Solution Architect for Analytics at AWS
+
 Robert da Costa, Senior Solution Architect at AWS
 
 ### What are we going to discuss in this blog?
