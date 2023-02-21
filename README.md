@@ -40,7 +40,7 @@ Azure Active Directory directory
 
 ## Tasks to perform the integration
 
-En el dominio de Amazon OpenSearch Service, activamos el estándar SAML 2.0. En el dominio ya creado, fuimos a la pestaña «Configuración de seguridad» y hacemos clic en «Editar»:
+In the Amazon OpenSearch Service domain, we activated the SAML 2.0 standard. In the already created domain, we went to the “Security Settings” tab and click “Edit”:
 
 ![](https://d2908q01vomqb2.cloudfront.net/4d134bc072212ace2df385dae143139da74ec0ef/2021/11/18/Utilizando-o-Azure-AD-como-provedor-de-identidade-para-o-OpenSearch-Dashboards-no-Amazon-OpenSearch-Service-2.jpg)
 
